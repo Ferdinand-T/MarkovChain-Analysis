@@ -34,11 +34,11 @@ Feed it any plain-text file, and it will:
 
 ## ✨ Features
 
-- 🧠 **Configurable order** — order-1 ("given one word") up to order-*n* chains, trading off variety vs. coherence.
+- 🧠 **Configurable order** — order-1 ("given one word") up to order-*n* chains
 - 📊 **Three visualizations** out of the box: transition **heatmap**, directed **state graph**, and a **hexbin** density plot for large matrices.
 - 📈 **Built-in text analytics** — lexical diversity, word/character Shannon entropy, and bigram entropy, so generated output can be scored, not just eyeballed.
 - 🔁 **Graceful dead-end handling** — if generation walks into a state with no known successor, it jumps to a random state instead of crashing or stalling.
-- 🗂️ **Multiple sample corpora included** — German news sentences, *Eugene Onegin*, Wikipedia sentences, and small/large synthetic samples — ready to train on immediately.
+
 
 ---
 
